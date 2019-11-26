@@ -11,7 +11,7 @@ setup(
     name='Flask-TransAlchemy',
     version='0.1',
     packages=['flask_transalchemy'],
-    url='',
+    url='https://github.com/gerelorant/Flask-TransAlchemy',
     license='MIT',
     author='Gere Lóránt',
     author_email='gerelorant@gmail.com',
